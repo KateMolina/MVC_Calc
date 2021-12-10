@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\bin\Debug\net5.0\CalculatorCore.deps.json
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\bin\Debug\net5.0\CalculatorCore.dll
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\bin\Debug\net5.0\ref\CalculatorCore.dll
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\bin\Debug\net5.0\CalculatorCore.pdb
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\obj\Debug\net5.0\CalculatorCore.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\obj\Debug\net5.0\CalculatorCore.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\obj\Debug\net5.0\CalculatorCore.AssemblyInfo.cs
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\obj\Debug\net5.0\CalculatorCore.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\obj\Debug\net5.0\CalculatorCore.dll
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\obj\Debug\net5.0\ref\CalculatorCore.dll
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\obj\Debug\net5.0\CalculatorCore.pdb
+\\Mac\Home\Desktop\Study\Study C#\Practice\CalculatorCore\CalculatorCore\obj\Debug\net5.0\CalculatorCore.csproj.AssemblyReference.cache
